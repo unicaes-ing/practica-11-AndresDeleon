@@ -1,0 +1,15 @@
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 11\Práctica 11\bin\Debug\Práctica 11.exe.config
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 11\Práctica 11\bin\Debug\Práctica 11.exe
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 11\Práctica 11\bin\Debug\Práctica 11.pdb
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 11\Práctica 11\obj\Debug\Práctica 11.csprojResolveAssemblyReference.cache
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 11\Práctica 11\obj\Debug\Práctica 11.exe
+C:\Users\CATOLICA\Documents\AELD PE 2019\Práctica 11\Práctica 11\obj\Debug\Práctica 11.pdb
+E:\Práctica 11\bin\Debug\Práctica 11.exe.config
+E:\Práctica 11\obj\Debug\Práctica 11.exe
+E:\Práctica 11\obj\Debug\Práctica 11.pdb
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 11\bin\Debug\Práctica 11.exe.config
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 11\bin\Debug\Práctica 11.exe
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 11\bin\Debug\Práctica 11.pdb
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 11\obj\Debug\Práctica 11.exe
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 11\obj\Debug\Práctica 11.pdb
+C:\Users\Andrés\Desktop\PE periodo 3\Práctica 11\obj\Debug\Práctica 11.csprojAssemblyReference.cache
